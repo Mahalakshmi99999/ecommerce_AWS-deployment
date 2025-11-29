@@ -118,6 +118,8 @@ How to Run Locally (Optional)
 
 http://localhost/ecommerce
 
+And Deployed in AWS and public URL is 52.66.244.169
+
 
 ---
 
